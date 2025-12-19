@@ -94,8 +94,4 @@ License:
 --------
 MIT License – Free to use and modify.
 
-SEO Keywords:
--------------
-Java password manager, Java password vault, Java GUI password manager,
-AES encryption Java, SecureVault Java, password manager project Java, Java Swing password manager
 =====================================================
