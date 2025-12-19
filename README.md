@@ -1,3 +1,10 @@
+<div align="center">
+
+SECUREVAULT - JAVA  
+Password Manager (GUI & Terminal)
+
+</div>
+
 # SECUREVAULT - JAVA
 # Password Manager (GUI & Terminal)
 
