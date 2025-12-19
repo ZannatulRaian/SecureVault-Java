@@ -17,6 +17,7 @@ Features:
 Screenshots:
 ------------
 GUI Version:
+
 <img width="333" height="152" alt="Screenshot 2025-12-19 141325" src="https://github.com/user-attachments/assets/5ea7a676-b749-4a05-ab7c-edd57965e1ed" />
 <img width="601" height="538" alt="Screenshot 2025-12-19 142237" src="https://github.com/user-attachments/assets/b61b0e44-d123-497b-9a2d-2bbf2cabc7e9" />
 
