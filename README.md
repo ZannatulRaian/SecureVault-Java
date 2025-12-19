@@ -93,5 +93,5 @@ Contributions welcome! Ideas:
 License:
 --------
 MIT License – Free to use and modify.
-
+---
 =====================================================
