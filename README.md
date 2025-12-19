@@ -1,7 +1,5 @@
-echo -e "+--------------------------------------------------+"
-echo -e "|                  \033[1mSECUREVAULT - JAVA\033[0m               |"
-echo -e "|        \033[1mPassword Manager (GUI & Terminal)\033[0m       |"
-echo -e "+--------------------------------------------------+"
+# SECUREVAULT - JAVA
+# Password Manager (GUI & Terminal)
 
 SecureVault is a lightweight and secure password manager written in Java.
 It allows you to store, view, update, and delete credentials safely.
