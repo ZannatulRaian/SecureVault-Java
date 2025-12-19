@@ -1,6 +1,6 @@
-##SECUREVAULT - JAVA
+SECUREVAULT - JAVA
 ---
-##Password Manager (GUI & Terminal)   
+Password Manager (GUI & Terminal)   
 ---
 
 SecureVault is a lightweight and secure password manager written in Java.
